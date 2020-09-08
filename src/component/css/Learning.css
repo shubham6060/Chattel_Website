@@ -1,0 +1,54 @@
+.learning-heading{
+    font-weight:bolder;
+    text-align:center;
+    font-family:sans-serif;
+    color:white;
+    padding-top:50px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+.learning-desc{
+    border-radius:10px;
+    padding:40px;
+  
+    background-color:gray
+}
+
+.learning-desc img{
+    height:300px;
+}
+
+.learning-desc h5{
+
+    color:darkred;
+   
+    font-family:sans-serif;
+    letter-spacing:1px;
+    text-transform: uppercase;
+    font-weight:bolder
+}
+
+
+.learning-desc p{
+    color:darkblue;
+    font-size:1.2rem;
+    font-family:sans-serif;
+    text-transform: uppercase;
+    font-weight:bold
+
+
+}
+
+
+@media only screen and (max-width:400px){
+
+    .learning-desc p{
+        font-size:0.9rem;
+    }
+}

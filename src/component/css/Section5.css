@@ -1,0 +1,51 @@
+.section-5{
+    
+       
+    width:80%;
+    height:auto;
+    /*background-color: white;*/
+    margin:auto;
+}
+
+.section-5 h4{
+    font-weight:bolder;
+    text-align:center;
+    font-family:sans-serif;
+    color: rgb(255, 255, 255);
+    padding-top:50px;
+}
+
+
+
+
+.aboutus-div{
+       margin-top:70px;
+         
+}
+
+.aboutus{
+    background-color: rgb(227, 221, 184);
+    height:auto;
+    border-radius:10px;
+        
+
+}
+
+.aboutus h5{
+    padding-left:50px;
+    padding-top:100px;
+    font-family:sans-serif;
+    font-weight:bold;
+   
+}
+
+.aboutus p{
+    padding-left:50px;
+    padding-top:20px;
+    padding-right:50px;
+    padding-bottom:120px;
+    color:#5954cb;
+    font-size:1.2rem;
+    font-weight:700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    
+}

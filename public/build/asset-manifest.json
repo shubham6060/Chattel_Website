@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3ea5db9.chunk.css",
+    "main.js": "/static/js/main.79a229d6.chunk.js",
+    "main.js.map": "/static/js/main.79a229d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.3754a9cc.chunk.js": "/static/js/2.3754a9cc.chunk.js",
+    "static/js/2.3754a9cc.chunk.js.map": "/static/js/2.3754a9cc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a1ad3de1a2c8ed332ef921919c24a114.js": "/precache-manifest.a1ad3de1a2c8ed332ef921919c24a114.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d3ea5db9.chunk.css.map": "/static/css/main.d3ea5db9.chunk.css.map",
+    "static/js/2.3754a9cc.chunk.js.LICENSE.txt": "/static/js/2.3754a9cc.chunk.js.LICENSE.txt",
+    "static/media/ai-ml.jpg": "/static/media/ai-ml.a8e57c5b.jpg",
+    "static/media/app-dev.jpg": "/static/media/app-dev.65dcd200.jpg",
+    "static/media/internship.jpg": "/static/media/internship.55956a1e.jpg",
+    "static/media/live-project.png": "/static/media/live-project.70e0aeda.png",
+    "static/media/programming.jpg": "/static/media/programming.189dc2e8.jpg",
+    "static/media/project-meeting.jpg": "/static/media/project-meeting.c1e581c3.jpg",
+    "static/media/web.jpeg": "/static/media/web.57e269d7.jpeg",
+    "static/media/work-experience.jpg": "/static/media/work-experience.00123efc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.3754a9cc.chunk.js",
+    "static/css/main.d3ea5db9.chunk.css",
+    "static/js/main.79a229d6.chunk.js"
+  ]
+}

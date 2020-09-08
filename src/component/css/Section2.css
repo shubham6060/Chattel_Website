@@ -1,0 +1,99 @@
+.section-2{
+    
+    width:80%;
+    height:auto;
+    /*background-color:white;*/
+    margin:auto;
+}
+
+.section-2 h4{
+    font-weight:bolder;
+    text-align:center;
+    font-family:sans-serif;
+    color: rgb(255, 255, 255);
+    padding-top:50px;
+}
+
+.section-2 h5{
+    color:#5954cb;
+    text-align:center;
+    font-family:sans-serif;
+    letter-spacing:1px;
+    
+    
+    
+}
+
+.chattel-learning{
+    margin-top:70px;
+    
+}
+
+
+
+.card-content-styling{
+    background-color:#daa850;
+
+}
+
+#chattel-tech-1,#chattel-tech-2,#chattel-tech-4{
+    color:white;
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:1rem;
+}
+
+#chattel-tech-3{
+    color:white;
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:0.95rem;
+
+}
+
+.card-content-styling p a{
+ 
+    color:darkblue;
+    font-family:sans-serif;
+    font-weight:bold;
+    font-size:1rem; 
+}
+
+.card-reveal-styling p{
+
+   font-size:1rem;
+   font-family:sans-serif;
+   
+    color:white
+}
+
+@media only screen and (max-width:520px){
+
+    #chattel-tech-1,#chattel-tech-2,#chattel-tech-4{
+        color:white;
+        font-family:sans-serif;
+        font-weight:bold;
+        font-size:1.2rem;
+    }
+    
+    #chattel-tech-3{
+        color:white;
+        font-family:sans-serif;
+        font-weight:bold;
+        font-size:1.3rem;
+    
+    }
+    
+    .card-content-styling p a{
+     
+        color:darkblue;
+        font-family:sans-serif;
+        font-weight:bold;
+        font-size:1rem; 
+    }
+   
+
+
+
+
+}

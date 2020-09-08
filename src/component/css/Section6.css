@@ -1,0 +1,152 @@
+.section-6{
+    
+       
+    width:80%;
+    height:auto;
+    /*background-color: white;*/
+    margin:auto;
+}
+
+.section-6 h4{
+    font-weight:bolder;
+    text-align:center;
+    font-family:sans-serif;
+    color: rgb(255, 255, 255);
+    padding-top:50px;
+}
+
+.contactus{
+    margin-top:70px;
+    
+}
+
+
+
+.map-location iframe{
+    display:block;
+    margin:auto;
+    height:350px;
+}
+
+
+.map-location h5{
+    color:#5954cb;
+    text-transform: uppercase;
+    font-weight:500;
+    text-align:center;
+}
+
+.map-location p{
+    color: rgb(208, 214, 171);
+    font-size:15px;
+    position:relative;
+    text-align:center;
+}
+
+.contact-form{
+    height:500px;
+
+    
+}
+
+#name,#email,#subject{
+    font-size:17px;
+    font-family:san-serif;
+    color:white;
+ 
+}
+
+#message{
+    font-size:17px;
+    font-family:san-serif;
+    color:white;
+  
+    padding:10px;
+    
+
+}
+
+
+
+.input-field label {
+    color:lightgray;
+    font-size:16px;
+    font-family:sans-serif;
+   
+}
+
+.input-field input[type=text] {
+    border-bottom:1px solid #daa850;
+    
+}
+
+.input-field input[type=email] {
+    border-bottom:1px solid #daa850;
+    
+  }
+
+.contact-form textarea{
+    position:relative;
+    top:5px;
+    height:150px;
+    background-color:rgb(34,40,49);
+    resize:none;
+    border-radius:10px;
+    border:1px solid #daa850
+}
+
+textarea::placeholder{
+    
+  
+    color:lightgray;
+    font-size:16px;
+    font-family:sans-serif;
+    letter-spacing:0px;
+}
+
+textarea:focus{
+    outline: none;
+    
+    border:1.5px solid darkcyan;
+}
+
+.contact-form button{
+    position:relative;
+    top:25px;
+    border-radius:5px;
+}
+
+
+@media only screen and (max-width:1000px) and (min-width:600px){
+
+   
+    .map-location iframe{
+        display:block;
+        margin:auto;
+        height:280px;
+        width:200px;
+    }
+}
+
+@media only screen and (max-width:600px){
+
+    .contact-form{
+        position:relative;
+        top:30px;
+        height:500px;
+        
+        
+    }   
+
+   
+}
+
+@media only screen and (max-width:370px){
+
+    .map-location iframe{
+        display:block;
+        margin:auto;
+        height:280px;
+        width:180px;
+    }
+}
