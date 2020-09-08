@@ -17,7 +17,7 @@ function Section2() {
                                 </div>
                                     <div className="card-content card-content-styling">
                                         <span className="card-title" id="chattel-tech-1">ML and AI Courses</span>
-                                        <p><a href="/learning#ml-courses">Go to the Courses</a></p>
+                                        <p><Link to="/learning">Go to the Courses</Link></p>
                                     </div>
                                   
                                 </div>
@@ -31,7 +31,7 @@ function Section2() {
                                 </div>
                                     <div className="card-content card-content-styling">
                                         <span className="card-title " id="chattel-tech-2">App Development Courses</span>
-                                        <p><a href="/learning#app-courses">Go to the Courses</a></p>
+                                        <p><Link to="/learning">Go to the Courses</Link></p>
                                     </div>
                                     
                                 </div>
@@ -44,7 +44,7 @@ function Section2() {
                                 </div>
                                     <div className="card-content card-content-styling">
                                         <span className="card-title" id="chattel-tech-3">Programming Languages Courses</span>
-                                        <p><a href="/learning#language-courses">Go to the Courses</a></p>
+                                        <p><Link to="/learning">Go to the Courses</Link ></p>
                                     </div>
                                   
                                 </div>
@@ -56,7 +56,7 @@ function Section2() {
                                 </div>
                                     <div className="card-content card-content-styling">
                                         <span className="card-title " id="chattel-tech-4">Academic Project Mentoring</span>
-                                        <p><a href="/learning#project-mentoring">Go to the Courses</a></p>
+                                        <p><Link to="/learning">Go to the Courses</Link></p>
                                     </div>
                                   
                                 </div>
